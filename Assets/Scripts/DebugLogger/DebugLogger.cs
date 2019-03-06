@@ -30,7 +30,7 @@ public class DebugLogger : MonoBehaviour
     {
         if (Instance == null)
         {
-            Debug.Log(message);
+            Debug.Log(message + "_Test");
             return;
         }
         AddLine(message);
