@@ -1,0 +1,12 @@
+{
+    "name": "com.kalelovil.packages.debugging",
+    "displayName": "Debugging",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "description": "Debugging Window",
+    "keywords": [
+        "debugging",
+        "utility"
+    ],
+    "category": "Utility"
+}
